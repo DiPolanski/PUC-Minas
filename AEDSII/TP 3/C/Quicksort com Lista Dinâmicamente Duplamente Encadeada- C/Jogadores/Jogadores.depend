@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700239287 source:c:\users\polan\desktop\faculdade\periodo 2\aeds 2\trabalho prático\tp 3\c\quicksort com lista dinâmicamente duplamente encadeada- c\jogadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
