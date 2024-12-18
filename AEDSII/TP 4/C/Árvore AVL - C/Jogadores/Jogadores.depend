@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701989871 source:c:\users\polan\desktop\faculdade\periodo 2\aeds 2\trabalho prático\tp 4\c\Árvore avl - c\jogadores\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
