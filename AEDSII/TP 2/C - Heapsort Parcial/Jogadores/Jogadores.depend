@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697220779 source:c:\users\polan\desktop\faculdade\periodo 2\aeds 2\trabalho prático\tp 2\c - heapsort parcial\jogadores\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/time.h>
+
